@@ -4,6 +4,11 @@
 - pandas
 - matplotlib
 - seaborn
+# Installation of Libraries
+* [numpy](https://www.besanttechnologies.com/install-numpy "Numpy")
+* https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
+* https://seaborn.pydata.org/installing.html
+* https://matplotlib.org/3.2.1/users/installing.html
 # Overview
 The project will give you basic idea that which country have highest users of stack overflow and will make u analyze about fact that in order to get paid higher as a developer start contributing to open sources projects
 you can also read my work on medium using link : https://medium.com/@vansh.mklv/countries-serving-the-purpose-for-developers-929f1cfd9b6a
