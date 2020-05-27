@@ -1,5 +1,5 @@
 # Analyzing-Stack-overflow-data-Udacity-Project-1
-# Libraries
+# Libraries Used
 - numpy
 - pandas
 - matplotlib
@@ -7,7 +7,7 @@
 # Installation of Libraries
 * [numpy](https://www.besanttechnologies.com/install-numpy)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-* [matplotlib]https://matplotlib.org/3.2.1/users/installing.html
+* [matplotlib](https://matplotlib.org/3.2.1/users/installing.html)
 * [seaborn](https://seaborn.pydata.org/installing.html)
 
 # Overview
